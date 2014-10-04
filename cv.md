@@ -41,10 +41,16 @@ Publications:
 
 Computer Skills
 Proficient In R, Python
-Experienced In Matlab Mathematica
+Experienced In Matlab, Mathematica
 Implemented algorithms such as line search,gradient descent,conjugate descent,quasi-newton methods,simulated annealing,knn,svm when studying numerical optimization and machine learning.
 
 
 Standardized Tests
 Toefl 94
 GRE	Verbal 153 Math 162 AW 3
+
+Project
+Natrual Fund...XXXX
+
+2013.2-2013.6 Teaching Assistantship XiangYong Li
+Morden Optimization in Management Science
