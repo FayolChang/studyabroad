@@ -50,19 +50,37 @@
 \RequirePackage[quiet]{fontspec}
 \RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
 
-%\newfontfamily\bodyfont[]{Helvetica Neue}
 
+
+%---------------------------------------------------------------
+%% original font setting
+%---------------------------------------------------------------
+
+%\newfontfamily\bodyfont[]{Helvetica Neue}
 %\newfontfamily\thinfont[]{Helvetica Neue UltraLight}
 %\newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
-\newfontfamily\bodyfont[]{Helvetica Neue}
-\newfontfamily\thinfont[]{HelveticaNeue LT 25 UltLight}
+%\defaultfontfeatures{Mapping=tex-text}
+%\setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}
+
+
+
+%---------------------------------------------------------------
+%% font setting I
+%---------------------------------------------------------------
+
+\newfontfamily\bodyfont[]{Helvetica Neue LT Pro 45 Light}
+\newfontfamily\thinfont[]{Helvetica Neue LT Pro 25 Ultra Light}
 \newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
 
-
-
 \defaultfontfeatures{Mapping=tex-text}
-%\setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}
-\setmainfont[Mapping=tex-text, Color=textcolor]{HelveticaNeue LT 45 Light}
+\setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue LT Pro 45 Light}
+
+
+
+
+%---------------------------------------------------------------
+%% font setting II
+%---------------------------------------------------------------
 
 %\setmathfont{XITS Math}
 
