@@ -65,15 +65,14 @@
 
 
 %---------------------------------------------------------------
-%% font setting I
+%% font setting I,linux
 %---------------------------------------------------------------
 
-\newfontfamily\bodyfont[]{Helvetica Neue LT Pro 45 Light}
-\newfontfamily\thinfont[]{Helvetica Neue LT Pro 25 Ultra Light}
-\newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
-
-\defaultfontfeatures{Mapping=tex-text}
-\setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue LT Pro 45 Light}
+%\newfontfamily\bodyfont[]{Helvetica Neue LT Pro 45 Light}
+%\newfontfamily\thinfont[]{Helvetica Neue LT Pro 25 Ultra Light}
+%\newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
+%\defaultfontfeatures{Mapping=tex-text}
+%\setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue LT Pro 45 Light}
 
 
 
@@ -81,6 +80,16 @@
 %---------------------------------------------------------------
 %% font setting II
 %---------------------------------------------------------------
+
+\newfontfamily\bodyfont[]{Helvetica Neue}
+\newfontfamily\thinfont[]{Helvetica Neue LT Pro 25 Ultra Light}
+\newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}
+
+
+
+
 
 %\setmathfont{XITS Math}
 
