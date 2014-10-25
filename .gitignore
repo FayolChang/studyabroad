@@ -1,3 +1,4 @@
+.DS_Store
 2012最终版美国留学申请手册统计和金融工程专业.pdf
 2012美国留学申请手册CS计算机专业篇_backup.pdf
 2014年国家公派研究生项目实施办法
@@ -7,6 +8,10 @@ cv/cv_10.bbl
 cv/cv_10.run.xml
 cv/cv_10.tex
 cv/friggeri-cv (backup).cls
+cv/.DS_Store
+cv/friggeri-cv.cls
+cv/zhangfayou.bbl
+cv/zhangfayou.run.xml
 cv/output
 cvtemplate
 grade.csv
