@@ -1,0 +1,7 @@
+"interdisciplinary" "machine learning" inurl:edu "management OR supply chain"
+到了第二页
+
+2.注意爱丁堡大学的Data Science PHD
+
+"research areas OR focus OR interest" "Machine learning"  AROUND(10) "Management Science" OR "supply chain" inurl:edu inurl:cs
+到了第二页
