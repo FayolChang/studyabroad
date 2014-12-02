@@ -6,6 +6,10 @@ After one class when I presented machine learning algorithms, and made a demo fo
 
 I shall really appreciate it if you could accept him into your department, thus further his study on this filed to realize his dreams.
 
+Yours Sincerely
+Associate Prof. Wang
+
+
 
 
 
